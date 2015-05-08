@@ -1,0 +1,21 @@
+<%= form_for(@radnom_app) do |f| %>
+  <% if @radnom_app.errors.any? %>
+    <div id="error_explanation">
+      <h2><%= pluralize(@radnom_app.errors.count, "error") %> prohibited this radnom_app from being saved:</h2>
+
+      <ul>
+      <% @radnom_app.errors.full_messages.each do |message| %>
+        <li><%= message %></li>
+      <% end %>
+      </ul>
+    </div>
+  <% end %>
+
+  <div class="field">
+    <%= f.label :name %><br>
+    <%= f.text_area :name %>
+  </div>
+  <div class="actions">
+    <%= f.submit %>
+  </div>
+<% end %>

@@ -1,0 +1,36 @@
+<div id="wrapper">
+            
+        <div id="wheel">
+            <div id="inner-wheel">
+            <% @radnom_apps.each do |radnom_app| %>
+                <div class="sec"><span class="wheel_value"><%= radnom_app.name %></span></div>
+<!--                 <div class="sec"><span class="wheel_value">Dave</span></div>
+                <div class="sec"><span class="wheel_value">Marc</span></div>
+                <div class="sec"><span class="wheel_value">Jen</span></div>
+                <div class="sec"><span class="wheel_value">Fin</span></div>
+                <div class="sec"><span class="wheel_value">Thomas</span></div> -->
+                <% end %>
+            </div>       
+           
+            <div id="spin">
+                <div id="inner-spin"></div>
+            </div>
+            
+            <div id="shine"></div>
+        </div>
+        
+        
+        <!-- <div id="txt"></div> -->
+  </div>
+
+  <div class="buttons">
+<a href="/list" title="Change the wheel values">Change the values</a>
+<br>
+<a href="/" title="Back that ass up">Back to the main menu</a>
+</div>
+
+
+<!-- <div class="back_to_menu_button">
+
+</div>
+ -->
