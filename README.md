@@ -23,4 +23,4 @@ Built by Findlay Parke in May 2015.
 credit
 ========
 
-With the help of [André Cortellini](http://codepen.io/AndreCortellini/)! 
+With the huge help of [André Cortellini](http://codepen.io/AndreCortellini/)! 
