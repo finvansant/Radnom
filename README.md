@@ -3,7 +3,7 @@ Radnom
 
 Radnom is a rails webapp that allows you to turn every decision into a round of Wheel of Fortune.
 
-  * Pick a student? Radnomize it.
+  * Which student should I pick? Radnomize it.
   * Who pays for the beers? Radnomize it.
   * Which netflix show should I bingewatch? Radnomize it.
 
