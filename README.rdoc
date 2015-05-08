@@ -1,28 +1,26 @@
-== README
+Radnom
+========
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Radnom is a rails webapp that allows you to turn every decision into a round of Wheel of Fortune.
 
-Things you may want to cover:
+![alt tag](https://raw.github.com/finvansant/Radnom.app/master/app/assets/images/title_screen.png)
 
-* Ruby version
+![alt tag](https://raw.github.com/finvansant/Radnom.app/master/app/assets/images/wheel_of_death.png)
 
-* System dependencies
+![alt tag](https://raw.github.com/finvansant/hotspot_/master/hs_pres/images/values_list.png)
 
-* Configuration
+dependencies
+========
 
-* Database creation
+* rails gem
+* jquery-rails gem
 
-* Database initialization
+author
+========
 
-* How to run the test suite
+Built by Findlay Parke in May 2015. 
 
-* Services (job queues, cache servers, search engines, etc.)
+credit
+========
 
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+With the help of [André Cortellini](http://codepen.io/AndreCortellini/)! 
