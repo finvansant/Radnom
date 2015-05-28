@@ -8,7 +8,7 @@ Radnom is a rails webapp that allows you to turn every decision into a round of 
   * Which netflix show should I bingewatch? Radnomize it.
   * Who should I marry? ... don't Radnomize it.
 
-![alt tag](https://raw.github.com/finvansant/Radnom.app/master/app/assets/images/radnom_logo.png)
+![alt tag](https://raw.github.com/finvansant/Radnom_app/master/app/assets/images/radnom_logo.png)
 
 ![alt tag](https://raw.github.com/finvansant/Radnom.app/master/app/assets/images/wheel_of_death.png)
 
