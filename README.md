@@ -35,3 +35,8 @@ credit
 ========
 
 With the huge help of [André Cortellini](http://codepen.io/AndreCortellini/)! 
+
+license
+========
+
+Radnom is MIT Licensed. See LICENSE for details.
